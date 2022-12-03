@@ -17,3 +17,7 @@ There are also gerbers already generated in the gerber folders.
 
 ![KLE Diagram](./docs/KLE.png "KLE Diagram")  
 ![KLE Diagram](./docs/omega_4_KLE.png "KLE Diagram")
+
+
+This version was modified by Alas for LuTang.
+The spacebar options were replaced with 2x2u.

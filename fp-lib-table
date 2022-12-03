@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Schematic Library")(type "KiCad")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library")(options "")(descr ""))
+  (lib (name "promicro")(type "KiCad")(uri "${KIPRJMOD}/ProMicroKiCad/promicro.pretty")(options "")(descr ""))
+  (lib (name "3dmodels")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty/3dmodels")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+)
